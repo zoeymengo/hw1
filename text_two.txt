@@ -1,1 +1,6 @@
 This is the second text file for this repository. 
+
+A little bit about me:
+1. I'm a fourth year stats major with a math minor
+2. I have two cats named Socks and Mittens 
+3. I don't like bell peppers
